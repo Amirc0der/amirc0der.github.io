@@ -9,6 +9,7 @@
     📧 Email : mkcenter.ir@gmail.com
     💼 I am looking for a job.
 
-https://github.com/Amirc0der/Smart-JavaScript-Slider
-https://github.com/Amirc0der/Smart-JavaScript-Tabs
-https://github.com/Amirc0der/JavaScript-Game
+Some of my JavaScript works: 
+https://github.com/Amirc0der/Smart-JavaScript-Slider <br>
+https://github.com/Amirc0der/Smart-JavaScript-Tabs <br>
+https://github.com/Amirc0der/JavaScript-Game <br>
