@@ -10,6 +10,6 @@
     💼 I am looking for a job.
 
 Some of my JavaScript works: <br>
-https://github.com/Amirc0der/Smart-JavaScript-Slider <br>
-https://github.com/Amirc0der/Smart-JavaScript-Tabs <br>
-https://github.com/Amirc0der/JavaScript-Game <br>
+[JavaScript Smart Slider](https://github.com/Amirc0der/Smart-JavaScript-Slider) <br>
+[JavaScript Smart Tabs](https://github.com/Amirc0der/Smart-JavaScript-Tabs) <br>
+[JavaScript Bomberman Game](https://github.com/Amirc0der/JavaScript-Game) <br>
